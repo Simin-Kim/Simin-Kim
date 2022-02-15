@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=140&section=header&text=SiminKim&fontSize=65&animation=twinkling)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=140&section=header&text=SiminKim&fontSize=65&animation=twinkling) -->
+![header](https://capsule-render.vercel.app/api?type=Egg&color=00c9ff&height=300&section=header&text=Simin%20Kim&fontSize=90)
 
 <div align="center">
+
+<br>
 
 ## 🚀 Tech 🚀
 
