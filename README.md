@@ -12,6 +12,7 @@
 <a href=""><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <br>
 <a href=""><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Emotion-000?style=flat-square&logo=motion&logoColor=white"/></a>
 <br>
