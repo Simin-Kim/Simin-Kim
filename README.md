@@ -21,8 +21,10 @@
 <br>
 <br>
 
-![Simin-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simin-Kim&show_icons=true&theme=react)
 
+<!--
+![Simin-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simin-Kim&show_icons=true&theme=react)
+-->
 
 <!--
 **Simin-Kim/Simin-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
