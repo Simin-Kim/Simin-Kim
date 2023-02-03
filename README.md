@@ -1,7 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Welcome%20to%20Simin-Kim's%20GitHub&height=200&fontSize=50&fontColor=fff&fontAlignY=40)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Welcome%20to%20Simin-Kim's%20GitHub&height=200&fontSize=50&fontColor=fff&fontAlignY=40)
+ -->
 ## 💻 Tech
 <a href=""><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
