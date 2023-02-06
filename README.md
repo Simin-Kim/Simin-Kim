@@ -12,14 +12,10 @@
 <a href=""><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
   
-<br>
-  
 ## 🧰 Tools
 <a href=""><img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
-  
-<br>
 
 ## 👨‍💻 Stats
 [![Simin-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simin-Kim&show_icons=true&theme=gruvbox)](https://github.com/Simin-Kim/github-readme-stats)
