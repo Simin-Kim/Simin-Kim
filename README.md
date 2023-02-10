@@ -18,5 +18,9 @@
 <a href=""><img src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
 
 ## 👨‍💻 Stats
+<div style="display: flex; flex-direction: row;">
+  
 [![Simin-Kim's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Simin-Kim&show_icons=true&theme=gruvbox)](https://github.com/Simin-Kim/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=citizen9616)](https://solved.ac/citizen9616)
+  
+</div>
